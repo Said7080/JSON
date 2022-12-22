@@ -1,5 +1,5 @@
 {
-          "Environment":["Wind_10_Pro,Chrome_108"],
+         bug_1 = {"Environment":["Wind_10_Pro","Chrome_108"],
           "Title":"Buttons_[Sell]_and_[Buy]_aren't_displayed_in_tab_[Get involved._Become_a_trader]_of_the_main_banner",
           "Steps":"1._Navigate_to_capital.com_2._Click_on_the_tab_[Get_involved._Become_a_trader]_of_the_main_banner_on_the_main_page",
           "Expected_Result":"he_[Sell]_and_[Buy]_buttons_are_displayed_on_the_banner.",
@@ -7,5 +7,5 @@
           "Link":"https://drive.google.com/file/d/1tjMHNYschcvpvV0X_b7rYe4Q40s2cx3H/view?usp=share_link",
           "License":"ALL"
           "Role_(unregistered,_unauthorized,_authorized,_All)":"ALL",
-          "Telegram @nick":"@BerSerker15"
+          "Telegram @nick":"@BerSerker15"}
 } 
