@@ -1,7 +1,7 @@
 { 
-	user_1:{"name":"Said",
+	        "name":"Said",
 	        "surname":"Sharapudinov",
 		"age":18,
 		"aminals":0,
-	        "money":80000}
+	        "money":80000
 }		
