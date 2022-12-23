@@ -1,6 +1,6 @@
 {
-	       "write":"Chek_list, Smoke, Bug_reports, test_keys, E2E,",
-	       "tools":"GitBush, Postman, Charles"
+	       "write":["Chek_list, Smoke, Bug_reports, test_keys, E2E,"],
+	       "tools":["GitBush, Postman, Charles"]
 	       
 }
 	       
